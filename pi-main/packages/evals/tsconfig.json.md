@@ -1,0 +1,13 @@
+````text
+{
+	"extends": "../../tsconfig.json",
+	"compilerOptions": {
+		"noEmit": true,
+		"module": "NodeNext",
+		"moduleResolution": "NodeNext",
+		"types": ["node", "vitest"]
+	},
+	"include": ["src/**/*.ts"]
+}
+
+````
