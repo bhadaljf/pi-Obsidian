@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/目前进度.md",
+                "file": "pi-main/pi-test.sh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目前进度"
+              "title": "pi-test.sh"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/笔记.md",
+                "file": "note/思考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "思考"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a45433f639e617ad",
@@ -151,10 +150,10 @@
   },
   "active": "c36a15a5512d1853",
   "lastOpenFiles": [
-    "note/思考.md",
-    "note/笔记.md",
     "note/计划.md",
     "note/目前进度.md",
+    "note/笔记.md",
+    "note/思考.md",
     "pi-main/pi-test.sh.md",
     "note/笔记",
     "copilot/projects/pi-agent/project.md",
