@@ -49,7 +49,8 @@
               "title": "计划"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/笔记.md",
+                "file": "note/计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/笔记.md",
+                "file": "note/计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/笔记.md",
+                "file": "note/计划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,10 +240,10 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "c36a15a5512d1853",
+  "active": "47e17ff3d106a127",
   "lastOpenFiles": [
-    "note/计划.md",
     "note/笔记.md",
+    "note/计划.md",
     "note/思考.md",
     "note/目前进度.md",
     "pi-main/pi-test.sh.md",
