@@ -124,16 +124,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41fc007c5f0b7ca3",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-agent-chat-view",
-              "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
-            }
-          },
-          {
             "id": "4046927ffb230cbe",
             "type": "leaf",
             "state": {
