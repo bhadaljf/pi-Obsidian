@@ -49,8 +49,7 @@
               "title": "计划"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/计划.md",
+                "file": "note/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/计划.md",
+                "file": "note/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/计划.md",
+                "file": "note/笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,11 +229,11 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "47e17ff3d106a127",
+  "active": "c36a15a5512d1853",
   "lastOpenFiles": [
-    "note/笔记.md",
     "note/思考.md",
     "note/计划.md",
+    "note/笔记.md",
     "note/Image/Pasted image 20260908194000.png",
     "note/Image/Pasted image 20260906115227.png",
     "note/Image/Pasted image 20260906115202.png",
